@@ -1,0 +1,15 @@
+{
+    "name": "handcraftedinthealps/testing-utils",
+    "description": "Testing utilities for sulu projects or bundles.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "TestingUtils",
+            "homepage": "https://github.com/handcraftedinthealps/testing-utils/graphs/contributors"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    }
+}
